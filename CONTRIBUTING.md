@@ -17,8 +17,8 @@ To contribute to this project, follow these steps:
    Open your terminal and run:
 
    ```bash
-   git clone https://github.com/itunuoluwaaina/Our-first-SCA-Project.git
-   cd Our-first-SCA-Project
+   git clone https://github.com/Itunuoluwaaina/Our-first-SCA-Project-.git
+   cd Our-first-SCA-Project-
 
 3. **Create a new branch**
 
