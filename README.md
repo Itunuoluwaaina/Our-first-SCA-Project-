@@ -29,5 +29,5 @@ For a more advanced setup, follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/itunuoluwaaina/group-blog.git
+git clone https://github.com/Itunuoluwaaina/group-blog.git
 cd group-blog
