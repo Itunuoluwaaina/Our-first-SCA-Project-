@@ -23,7 +23,7 @@ We created this project to:
 
 ## 🚀 How to Set Up and Run the Project
 
-You can run this project locally in your browser with no setup needed — just open `index.html`!  
+You can run this project locally in your browser with no setup needed — just open `https://ramlahibrahim.github.io/git_chronicles-SCA-Team2/`!  
 For a more advanced setup, follow these steps:
 
 ### 1. Clone the repository
