@@ -8,5 +8,5 @@ I initially struggled with GitHub when I first started in tech, finding it overw
 
 ### To Sum It Up
 
-GitHub is an awesome tool for everyone interested in learning, sharing and managing! 💻
+GitHub is an awesome tool for everyone interested in learning, sharing and managing!
 
